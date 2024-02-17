@@ -1,6 +1,27 @@
 # MCart
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/d1d31bee-a5c8-4304-a9a4-5c0ac5358920)
+
+
+![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/296c0e53-8f7c-4d38-9828-b2adef8a7d0e)
+
+
+![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/69564fe2-cd54-4c1f-968b-ba9baa91e192)
+
+
+![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/fc6bdddf-4fac-416c-808e-e1baa55341da)
+
+
+
+![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/410c4335-45f9-4b3a-8380-d293d42452d1)
+
+
+![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/8d1e28cc-1ccd-4c29-b38c-28b66d8c4315)
+
+
+
+
+
 
 ## Development server
 
