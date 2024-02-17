@@ -11,7 +11,7 @@
 ![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/296c0e53-8f7c-4d38-9828-b2adef8a7d0e)
 
 
-
+**#Products page**
 
 
 
@@ -19,21 +19,23 @@
 
 
 
-**#Products page**
 
+**#Applying filters**
 
 
 ![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/fc6bdddf-4fac-416c-808e-e1baa55341da)
 
 
-**#Applying filters**
 
+**#cart page**
 
 ![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/410c4335-45f9-4b3a-8380-d293d42452d1)
 
 
 
-**#cart page**
+
+
+**#checkout page**
 
 
 ![image](https://github.com/amrutha1320/mcart-using-angular/assets/134827744/8d1e28cc-1ccd-4c29-b38c-28b66d8c4315)
